@@ -88,14 +88,10 @@ h2 {
 }
 
 [type=submit] {
-    /*width: 40%;*/
-    /*height: 25px;*/
     text-align: center;
     margin-left: 10px;
     padding: 0;
     font-size: 28px;
-    /*width: 20px;*/
-    /*height: 20px;*/
     border: none;
     background: none;
     color: greenyellow;
@@ -186,4 +182,13 @@ h2 {
 
 .save-item:hover {
     color: #8cbd39;
+}
+
+.edit_input {
+    border-radius: 5px;
+    background: rgba(24, 24, 24, 0.95);
+    outline: none;
+    font-size: 18px;
+    color: white;
+    border: none;
 }
